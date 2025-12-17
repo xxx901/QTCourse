@@ -1,0 +1,21 @@
+﻿# 编译输出
+build/
+*.exe
+*.o
+*.dll
+*.so
+
+# Qt 特定
+*.pro.user
+*.autosave
+moc_*.cpp
+ui_*.h
+Makefile*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
